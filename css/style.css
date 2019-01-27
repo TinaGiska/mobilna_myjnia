@@ -1593,7 +1593,7 @@ header .header__logo img{
 @media(max-width:767px){
     .opinion{
         float: none;
-        margin: 20%;
+        margin: auto;
 
       }
 }
